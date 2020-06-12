@@ -6,22 +6,22 @@
 
 # 서비스 세팅
 1. install Apache2 
->  \'$ sudo apt-get install apache2 –y\'
+	>  \'$ sudo apt-get install apache2 –y\'
 
 2. Start the Apache server
->  \'$ sudo service apache2 restart\'
+	>  \'$ sudo service apache2 restart\'
 
 3. Installing MySQL Server (Database management system)
->  \'$ sudo apt-get install mariadb-server php-mysql -y\'
+	>  \'$ sudo apt-get install mariadb-server php-mysql -y\'
 
 4. Create a new user to login to mysql
->  \'$ sudo mysql\'
+	>  \'$ sudo mysql\'
 
 5. Install Phpmyadmin
-> \'$ sudo apt-get install phpMyAdmin -y\'
+	> \'$ sudo apt-get install phpMyAdmin -y\'
 
 6. JQuery
-> http://jquery.com/download/
+	> http://jquery.com/download/
 
 # 서비스 사용법
 ## 관리자
