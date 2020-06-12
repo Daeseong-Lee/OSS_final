@@ -6,19 +6,19 @@
 
 # 서비스 세팅
 1. install Apache2 
-$ sudo apt-get install apache2 –y
+- \'$ sudo apt-get install apache2 –y\'
 
 2. Start the Apache server
-$ sudo service apache2 restart
+- \'$ sudo service apache2 restart\'
 
 3. Installing MySQL Server (Database management system)
-$ sudo apt-get install mariadb-server php-mysql -y
+- \'$ sudo apt-get install mariadb-server php-mysql -y\'
 
 4. Create a new user to login to mysql
-$ sudo mysql
+- \'$ sudo mysql\'
 
 5. Install Phpmyadmin
-$ sudo apt-get install phpMyAdmin -y
+- \'$ sudo apt-get install phpMyAdmin -y\'
 
 6. JQuery
 http://jquery.com/download/
@@ -39,8 +39,8 @@ http://jquery.com/download/
 2. 과거 비전캡슐을 탐색한다.
   
 # 해당 서비스의 장점
-*비전이라는 카테고리의 데이터베이스를 구축
-*비전캡슐 행사의 물리적인 한계로 참석하지 못했던 구성원들이 웹을 통해 참석가능 
+* 비전이라는 카테고리의 데이터베이스를 구축
+* 비전캡슐 행사의 물리적인 한계로 참석하지 못했던 구성원들이 웹을 통해 참석가능 
 
 # 해당 서비스의 개선할 점
 1. UX/UI의 개선
@@ -48,8 +48,8 @@ http://jquery.com/download/
 3. 캡슐 개봉일에 맞추어 웹 자동생성되는 기능 추가적으로 필요
 
 # 문의사항
-21500474@handong.edu
+* 21500474@handong.edu
 
 # 관련 영상 링크
-www.youtube.com
+* www.youtube.com
 
