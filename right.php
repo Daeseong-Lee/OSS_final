@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<HEAD>
+<HEAD> 
 <script type="text/javascript" src="http://code.jquery.com/jquery-3.4.1.min.js"></script>
 <link rel="stylesheet" href="./css/style.css">
 <link rel="stylesheet" href="./css/NotoSansKR.css?v=1.2">
