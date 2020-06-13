@@ -16,11 +16,11 @@
 	>  \'$ sudo apt-get install mariadb-server php-mysql -y\'
 
 4. Create a new user to login to mysql
-	>  \'$ sudo mysql\'
-	>>  create user admin@localhost identified by 'your_password';
-	>> grant all privileges on *.* to admin@localhost;
-	>> FLUSH PRIVILEGES;
-	>> exit;
+	>  \'$ sudo mysql\'  
+	>>  create user admin@localhost identified by 'your_password';  
+	>> grant all privileges on *.* to admin@localhost;  
+	>> FLUSH PRIVILEGES;  
+	>> exit;  
 
 5. Install Phpmyadmin
 	> \'$ sudo apt-get install phpMyAdmin -y\'
