@@ -38,7 +38,7 @@
 
 ## 사용자(등록) 
 1. Vision Capsule Web 주소로 접속한다. 
-2. 왼쪽 상단의 Make Vision Capsule 이나 오른쪽 하단으 < 버튼을 누른다.
+2. 왼쪽 상단의 Make Vision Capsule 이나 오른쪽 하단의 < 버튼을 누른다.
 3. Vision Capsule을 작성한다.
 4. Send it 버튼을 누른다.
 
