@@ -59,5 +59,5 @@
 * 21500474@handong.edu
 
 # 관련 영상 링크
-* www.youtube.com
+* https://youtu.be/mso-ZGb8rIo
 
